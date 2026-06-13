@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&duration=3500&pause=800&color=6C63FF&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+Eduardo+Miranda+%F0%9F%91%8B;Desenvolvedor+Android+%7C+Full+Stack;println(%22uai+ce+ta+b%C3%A3o%3F%22)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&duration=3500&pause=800&color=6C63FF&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+Eduardo+Miranda+%F0%9F%91%8B;Dev+Android+%7C+Full+Stack" alt="Typing SVG" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=5&section=header" width="100%"/>
 
