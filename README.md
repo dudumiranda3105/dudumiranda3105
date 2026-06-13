@@ -86,7 +86,7 @@ Atualmente estudando na **Uni-FACEF** e sempre construindo coisas que fazem dife
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="mailto:SEU_EMAIL@gmail.com" target="_blank">
+<a href="mailto:eduardomiranda31205@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
