@@ -72,10 +72,6 @@ Extensão para Chrome que adiciona um botão de Picture-in-Picture ao player. Ab
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
 
-Também uso Python para automações e integro APIs REST e serviços de IA às aplicações.
-
-Tenho experiência com suporte de TI, resolução de problemas em Windows e redes, além de gerenciamento de usuários e acessos.
-
 ---
 
 ## Vamos conversar
